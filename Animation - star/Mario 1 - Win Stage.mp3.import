@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://qr5wrdhgrgh6"
+path="res://.godot/imported/Mario 1 - Win Stage.mp3-4895700866efbedf3a0d92de1ff0f383.mp3str"
+
+[deps]
+
+source_file="res://Animation - star/Mario 1 - Win Stage.mp3"
+dest_files=["res://.godot/imported/Mario 1 - Win Stage.mp3-4895700866efbedf3a0d92de1ff0f383.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
